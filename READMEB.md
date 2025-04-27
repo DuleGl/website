@@ -6,4 +6,5 @@ and
 feture-update-readme [3] [2]
 
 tortoise
-Pravljenje problema.
+
+Pravljenje problemcica
