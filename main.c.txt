@@ -1,4 +1,0 @@
-void main(void)
-{
- printf("Rezult: %d ", 0);
-}
