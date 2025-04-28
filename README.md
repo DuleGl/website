@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+Lokalna promena posle remote branch-a.
 1. Numbered
 2. List
 
