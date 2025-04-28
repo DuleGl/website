@@ -6,5 +6,5 @@ and
 feture-update-readme [3] [2]
 remote branch for tortoise.
 tortoise
-Rebasing
+
 Pravljenje problemcica
