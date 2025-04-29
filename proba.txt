@@ -1,4 +1,1 @@
-102
-!!??R
-tortoise
-Master branch promena konflikt
+struct
